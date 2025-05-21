@@ -46,19 +46,6 @@ Iris-Flower-Analysis and Predictions
     ├── Iris_Analysis.ipynb        # Main Jupyter Notebook
     ├── README.md                  # Project overview
 
-📊 Sample Outputs
-
-    🔹 Summary statistics for all numeric features
-
-     📈 Pairplot showing relationships between features
-
-     📊 Correlation heatmap highlighting feature strength
-
-     🎯 Confusion matrix and model accuracy
-
-     🚀 Getting Started
-
-Open the Iris_Analysis.ipynb file in Jupyter Notebook and run each cell step-by-step to perform the full analysis and prediction process.
 
 📌 License
 
