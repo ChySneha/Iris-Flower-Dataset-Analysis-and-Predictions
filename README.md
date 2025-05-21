@@ -39,14 +39,6 @@ A comprehensive Python project using the Iris dataset to analyze flower characte
 - matplotlib  
 - scikit-learn
 
-
-💻 **Installation**
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/Iris-Flower-Analysis.git
-cd Iris-Flower-Analysis
-
 📁 Project Structure
 Iris-Flower-Analysis and Predictions
     │
