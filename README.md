@@ -33,7 +33,11 @@ A comprehensive Python project using the Iris dataset to analyze flower characte
 
 ![Image](https://github.com/user-attachments/assets/2d3f4925-6306-467e-b795-511aefbcebda)
 
+### 📈 Exploratory Data Analysis (EDA)
+
+
 ### Slicer to set Category:
+By using slicer and vertical list it became very easy to set the categories and values to analyse the dataset effectively.
 
 ![Image](https://github.com/user-attachments/assets/a9b3140d-6bb0-4ef0-ad3b-a3819b587a7c)
 
