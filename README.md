@@ -33,6 +33,9 @@ A comprehensive Python project using the Iris dataset to analyze flower characte
 
 ![Image](https://github.com/user-attachments/assets/2d3f4925-6306-467e-b795-511aefbcebda)
 
+### Slicer to set Category:
+
+![Image](https://github.com/user-attachments/assets/a9b3140d-6bb0-4ef0-ad3b-a3819b587a7c)
 
 ✅ **Requirements**
 
