@@ -22,13 +22,13 @@ A comprehensive Python project using the Iris dataset to analyze flower characte
 - Train a logistic regression model to predict Iris species.
 - Evaluate model performance with accuracy and confusion matrix.
 ---
+
 ### 📊 Sample Outputs
 
 
 ### 📋 Interactive Dashboard
 
 ![Image](https://github.com/user-attachments/assets/2d3f4925-6306-467e-b795-511aefbcebda)
-
 ### 📊 Exploratory Data Analysis (EDA)
 - Summary statistics of all features.
 - Countplots, boxplots, and correlation heatmaps.
