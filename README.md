@@ -29,7 +29,7 @@ A comprehensive Python project using the Iris dataset to analyze flower characte
 ### 📊 Sample Outputs
 
 
-### 📋 Interactive Sales Dashboard
+### 📋 Interactive Dashboard
 
 ![Image](https://github.com/user-attachments/assets/2d3f4925-6306-467e-b795-511aefbcebda)
 
