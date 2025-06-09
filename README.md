@@ -45,6 +45,7 @@ By using slicer and vertical list it became very easy to set the categories and 
 
 - Python 3.7+
 - Jupyter Notebook
+- Data visualization tool (e.g tableu, power bi)
 
 **Required Packages:**
 - pandas  
